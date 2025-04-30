@@ -4,7 +4,7 @@ export const EXPERIENCE_DATA_LIST: ExperienceCardProps[] = [
   {
     companyHomePage: "https://developers.google.com/",
     companyName: "Google",
-    description: `Just started at Google. More details coming soon!`,
+    description: `Engineered and maintained the scalable infrastructure powering Google's developer documentation platform, including content serving, search, and indexing. My work ensured the platform's reliability and performance, supporting millions of page views.`,
     duration: "Jun 2024 - Present",
     position: "Software Engineer III"
   },
